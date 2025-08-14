@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://iam37.github.io/sitemap.xml
